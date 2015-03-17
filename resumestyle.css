@@ -1,0 +1,133 @@
+body{
+	position: relative;
+	font-family: 'Mandali', sans-serif;
+	overflow: auto;
+	padding-top: 45px;
+	border:20px;
+	line-height: 22px;
+	max-width:100%;
+	max-height:100%;
+	background-image: url(images/footer_lodyas.png);
+	background-attachment: fixed;
+}
+.container{
+	background-color: white;
+	padding: 20px;
+	padding-left:50px;
+	border-radius: 5px;
+	box-shadow: 13px 13px 0px rgba(0,0,0,.2);
+	padding-bottom: 70px;
+	padding-top: 45px;
+	max-width:737px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+#education{
+	display: inline;
+}
+h1{
+	font-size: 24px;
+	color: #7e3f98;
+	padding: 0px;
+	margin: 0px;
+	font-weight: bold;
+}
+.title{
+	padding: 20px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	max-width:737px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.title h1{
+	color: white;
+	padding-bottom: 3px;
+}
+header h1{
+	color: #7e3f98;
+	padding-bottom: 4px;
+}
+h2{
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+}
+body h3{
+	font-size: 16px;
+	color: #7e3f98;
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	font-size: 16px;
+	color: #282829;
+}
+footer{
+	display: relative;
+	padding-top: 20px;
+	max-width:737px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 20px;
+}
+footer h3{
+	color:white;
+	font-size: 16px;
+	font-weight: 400px;
+	padding-left: 12px;
+}
+footer p{
+	color: white;
+	font-size: 13px;
+	padding-left: 12px;
+}
+section #experience{ 
+	overflow: hidden;
+	float:left;
+	}
+#contact h1{
+	line-height: 10px;
+	font-size: 16px;
+}
+#contact h1, p{
+	display: inline;
+}
+img{
+	width:25%;
+	box-shadow: 6px 6px 0px rgba(0,0,0,.3);
+	margin: 14px;
+	margin-top: 15px;
+}
+.col-1{
+	width: 33.33%;
+	float: left;
+}
+.col-2{
+	width:66.66%;
+	float: left;
+}
+.col-1-1{
+	width: 40%;
+	float:left;
+}
+.col-1-2{
+	width: 60%;
+	float:left;
+}
+.col-1-3{
+	width:33%;
+	float: left;
+}
+section #about_me{
+	position:relative;
+	float: left;
+}
+a:link, a:visited{
+	color: #7e3f98;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+}
